@@ -1,0 +1,5 @@
+SENSORSEVERYWHERE
+
+Installation: 
+
+npm install
